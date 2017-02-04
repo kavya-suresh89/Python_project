@@ -18,7 +18,7 @@ variety of restaurants offering various cuisines and events and
 things to do in the place.
 
 
-
+Team : Mahima Srikanta, Madhura Bhat, Kavya Suresh Babu, Sangeeta Joshi and Ligang Ye.  
 
 
 #Technology and Tools used
